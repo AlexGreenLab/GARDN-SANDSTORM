@@ -2,6 +2,8 @@ README
 
 ##### Sequence and Structure of RNA Molecule Predictive CNNs & Generative Adversarial RNA Design Networks #####
 
+Doi:https://zenodo.org/records/15058435
+
 
 Code associated with Generative and Predictive Neural Networks for the Design of Functional RNA Molecules
 
