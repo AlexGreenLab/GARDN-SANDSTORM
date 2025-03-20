@@ -1,0 +1,38 @@
+Academic Open Source License
+
+Copyright (c) 2025. Boston University. All rights reserved.
+
+1. Definitions
+"Software" refers to the code, scripts, or programs covered under this license.
+"Licensor" refers to the original author(s) or entity granting this license.
+"Licensee" refers to any individual or entity that receives or uses the Software.
+
+2. Grant of License
+The Licensor grants the Licensee a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, and distribute the Software for academic and non-commercial research purposes, subject to the conditions set forth in this License.
+
+3. Conditions and Restrictions
+(a) The Licensee must include this License and the above copyright notice in all copies or substantial portions of the Software.
+(b) The Licensee may not use the Software for illegal, harmful, or malicious activities.
+(c) If modifications are distributed, they must be documented with appropriate attribution to the original Licensor.
+(d) The Licensee may not use the name of the Licensor or contributors to endorse or promote derived products without prior written consent.
+(e) Commercial use of the Software is prohibited unless prior written permission is obtained from the Licensor.
+
+4. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE LICENSOR SHALL NOT BE LIABLE FOR ANY CLAIMS, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+5. Limitation of Liability
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. Termination
+This License is effective until terminated. The Licensee’s rights under this License will terminate automatically if they fail to comply with any term herein. Upon termination, the Licensee must cease all use and distribution of the Software.
+
+7. Governing Law
+This License shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts.
+
+8. Miscellaneous
+(a) If any provision of this License is found to be unenforceable, the remaining provisions shall remain in effect.
+(b) Failure by the Licensor to enforce any provision shall not constitute a waiver of such provision.
+(c) The Licensee agrees that any dispute arising from this License shall be resolved in the courts of the Commonwealth of Massachusetts.
+
+9. Acceptance
+By using or distributing the Software, the Licensee agrees to be bound by the terms of this License.

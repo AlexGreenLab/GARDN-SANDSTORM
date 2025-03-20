@@ -1,0 +1,6 @@
+#Expected files available from 
+https://doi.org/10.1038/s41587-019-0164-5
+https://github.com/pjsample/human_5utr_modeling
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3130443
+
+'designed_library.csv'

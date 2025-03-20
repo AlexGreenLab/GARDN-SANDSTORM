@@ -1,0 +1,6 @@
+#Expected files available from 
+https://doi.org/10.1038/s41587-022-01213-5
+https://github.com/broadinstitute/adapt-seq-design
+
+'CCF_merged_pairs_annotated.curated.median.tsv'
+'CCF_merged_pairs_annotated.curated.resampled.tsv'

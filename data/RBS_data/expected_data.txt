@@ -1,0 +1,12 @@
+#Expected files available from 
+https://doi.org/10.1038/s41467-020-17222-4
+https://github.com/BorgwardtLab/SAPIENs
+
+'sequences_test.npy'
+'sequences_train_sample.npy'
+'sequences_train_validation.npy'
+'sequences_validation_sample.npy'
+'targets_test.npy'
+'targets_train_sample.npy'
+'targets_train_validation.npy'
+'targets_validation_sample.npy'
