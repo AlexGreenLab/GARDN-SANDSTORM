@@ -396,13 +396,13 @@ def track_agreement(g,d,sequences,epochs,discriminator_steps=3,batch_size=64,g_l
 
         
         
-        if epoch % 1 == 0:
-            a = np.random.normal(size=(100,z_dim))
-            a = generator(a)
-            util.plot_logo(real_sequences[:,:,:,0])
-            util.plot_logo(a[:,:,:,0])
-            plt.show()
-        #     plot_model_structure_quality(g,n_switches=20,latent_dim=z_dim,my_model=mod)
+#         if epoch % 1 == 0:
+#             a = np.random.normal(size=(100,z_dim))
+#             a = generator(a)
+#             util.plot_logo(real_sequences[:,:,:,0])
+#             util.plot_logo(a[:,:,:,0])
+#             plt.show()
+#         #     plot_model_structure_quality(g,n_switches=20,latent_dim=z_dim,my_model=mod)
         
         d_loss_save.append(d_loss)
         g_loss_save.append(g_loss)
